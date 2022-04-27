@@ -1,0 +1,490 @@
+{
+  "files": {
+    "config.json": [
+      {
+        "id": "df9abc36-ca34-4f85-85d3-b932aa47cdd7",
+        "line": 1,
+        "version": 14,
+        "index": 0
+      },
+      {
+        "id": "03c61991-3597-4b83-a94b-92d9d437ae03",
+        "line": 4,
+        "version": 14,
+        "index": 61
+      }
+    ],
+    "events/channelCreate.js": [
+      {
+        "id": "fe4af959-c765-4099-9ea2-eaf6b7d7ed6e",
+        "line": 1,
+        "version": 631,
+        "index": 0
+      },
+      {
+        "id": "3a21c545-24ac-4d02-9e45-f22dd4bb90bf",
+        "line": 1,
+        "version": 631,
+        "index": 0
+      },
+      {
+        "id": "2aa68084-eb1b-4585-8083-a3d6e565df23",
+        "line": 18,
+        "version": 631,
+        "index": 406
+      },
+      {
+        "id": "80f17326-bb71-4242-be4d-a0d7acf6d3b3",
+        "line": 18,
+        "version": 631,
+        "index": 406
+      }
+    ],
+    "events/messageUpdate.js": [
+      {
+        "id": "b7302d62-9b96-4e2a-b695-cc25822638e7",
+        "line": 1,
+        "version": 5,
+        "index": 0
+      }
+    ],
+    "expo.js": [
+      {
+        "id": "59808cb8-7f6c-429e-9e62-bd1581d08a44",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "948d142f-2dc6-4682-a838-f68307d24bc8",
+        "line": 4,
+        "version": 1,
+        "index": 100
+      },
+      {
+        "id": "610067fa-223f-4dbd-bca5-8a1558292e85",
+        "line": 7,
+        "version": 1,
+        "index": 234
+      },
+      {
+        "id": "f1eaefdf-123c-46fd-a1fe-12446f4a75f2",
+        "line": 11,
+        "version": 1,
+        "index": 455
+      },
+      {
+        "id": "087f9bb0-e1a8-4f68-b100-519e3aa8c448",
+        "line": 11,
+        "version": 1,
+        "index": 455
+      },
+      {
+        "id": "636b868e-df3c-42a4-ab02-bde5637c70e9",
+        "line": 11,
+        "version": 1,
+        "index": 455
+      }
+    ],
+    "exports/allExports.js": [
+      {
+        "id": "fd46cb44-a110-4874-bdd1-ea01a8474ae4",
+        "line": 5,
+        "version": 43,
+        "index": 32
+      }
+    ],
+    "functions/await/clear.js": [
+      {
+        "id": "6aabcf48-7012-4585-b05c-2e7565460f9c",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "3cc34dcf-0caf-4da4-8ee9-9b10052b41bc",
+        "line": 5,
+        "version": 1,
+        "index": 83
+      },
+      {
+        "id": "532b8e08-f5b9-4381-879e-38152dbaee20",
+        "line": 62,
+        "version": 1,
+        "index": 1612
+      }
+    ],
+    "functions/await/command.js": [
+      {
+        "id": "4eb43027-0031-4b95-8ef0-46d8ce1a8e89",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "5408b133-bc99-439d-93b0-fb149bd852db",
+        "line": 5,
+        "version": 1,
+        "index": 85
+      }
+    ],
+    "functions/await/shutDown.js": [
+      {
+        "id": "4dec4b34-2a6f-45dc-b35b-3a7fea2b921f",
+        "line": 10,
+        "version": 1,
+        "index": 190
+      }
+    ],
+    "functions/await/start.js": [
+      {
+        "id": "4d95a4ec-4d50-46a6-9426-d5dd819e4364",
+        "line": 3,
+        "version": 1,
+        "index": 30
+      },
+      {
+        "id": "ee73531c-a1ef-4fba-88c4-28ce541e1a61",
+        "line": 11,
+        "version": 1,
+        "index": 219
+      },
+      {
+        "id": "a9262baa-b900-4270-a451-817e3e22b634",
+        "line": 15,
+        "version": 1,
+        "index": 364
+      }
+    ],
+    "functions/commands/avatar.js": [
+      {
+        "id": "40edfde5-efca-40e1-a711-7b6ab36d299c",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "ef91f13f-a0e7-4a15-95fd-c5ea631d502b",
+        "line": 3,
+        "version": 1,
+        "index": 67
+      },
+      {
+        "id": "0fcbf42d-4805-41cc-8344-3f0ce99a8bc3",
+        "line": 12,
+        "version": 1,
+        "index": 360
+      },
+      {
+        "id": "3920f991-671d-4ce8-bec6-f1dcbb9ee21c",
+        "line": 18,
+        "version": 1,
+        "index": 573
+      }
+    ],
+    "functions/commands/buttons.js": [
+      {
+        "id": "2c2e801a-05da-42ac-b61f-a69775ce5f40",
+        "line": 2,
+        "version": 1,
+        "index": 30
+      },
+      {
+        "id": "5bfede41-ea88-41ce-98ac-d5f8d6e8f977",
+        "line": 2,
+        "version": 1,
+        "index": 30
+      }
+    ],
+    "functions/commands/calculator.js": [
+      {
+        "id": "85fb536b-9ced-46d5-a282-b734c5305cbb",
+        "line": 5,
+        "version": 4,
+        "index": 130
+      }
+    ],
+    "functions/commands/counter.js": [
+      {
+        "id": "3d358f42-3100-4694-9059-72c9b584f36a",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "functions/config/config.json": [
+      {
+        "id": "79503803-e8bb-49d0-b6ef-66ff69851380",
+        "line": 7,
+        "version": 1,
+        "index": 139
+      },
+      {
+        "id": "0f712d4a-8c5d-4efe-a0e3-d7bd52af63ac",
+        "line": 7,
+        "version": 1,
+        "index": 139
+      }
+    ],
+    "functions/ecenomy/dbObjects.js": [
+      {
+        "id": "7bff98fc-d723-4b9a-8a2b-0e3a2ef2a955",
+        "line": 10,
+        "version": 65,
+        "index": 202
+      }
+    ],
+    "functions/events/ready.js": [
+      {
+        "id": "09a5ca5d-eb54-49fb-a86e-a49a147799fd",
+        "line": 2,
+        "version": 1,
+        "index": 29
+      },
+      {
+        "id": "337a9d36-7e8b-48ba-9268-d609dd948ab2",
+        "line": 2,
+        "version": 1,
+        "index": 29
+      },
+      {
+        "id": "39c1a7e7-f83e-43ce-bc9c-7fda8a617542",
+        "line": 13,
+        "version": 1,
+        "index": 334
+      }
+    ],
+    "functions/handler/command.js": [
+      {
+        "id": "ea7ec453-4f44-4d64-9e0d-7e0fbbe26524",
+        "line": 1,
+        "version": 34,
+        "index": 0
+      },
+      {
+        "id": "1f374d65-767b-4314-96a3-31c06ed69238",
+        "line": 1,
+        "version": 34,
+        "index": 0
+      },
+      {
+        "id": "817f0a9b-38df-4c26-9540-fabe93704e2b",
+        "line": 1,
+        "version": 34,
+        "index": 0
+      },
+      {
+        "id": "d01b81a8-74e0-4249-b709-ae2dc1d69db1",
+        "line": 9,
+        "version": 64,
+        "index": 187
+      }
+    ],
+    "functions/logs/channelCreated.js": [
+      {
+        "id": "98541a38-4a27-42da-8ad3-a6e8cec25494",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "36eab904-5092-4baf-a706-0730f2a4be97",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "149d34f7-e217-40ab-91d0-4aca287c3f17",
+        "line": 4,
+        "version": 1,
+        "index": 59
+      },
+      {
+        "id": "5309403a-3eae-4c76-b8a9-7a1d9bc34538",
+        "line": 9,
+        "version": 1,
+        "index": 204
+      },
+      {
+        "id": "21cd89d8-0693-4164-8fac-25c389a5d7ec",
+        "line": 11,
+        "version": 1,
+        "index": 273
+      }
+    ],
+    "functions/logs/channelDeleted.js": [
+      {
+        "id": "5a8e743d-efe0-493b-b8c5-30f568925fa3",
+        "line": 8,
+        "version": 1,
+        "index": 151
+      },
+      {
+        "id": "42aa6496-68f4-402d-abe1-c9a1e47d5a64",
+        "line": 11,
+        "version": 1,
+        "index": 273
+      },
+      {
+        "id": "f0932a73-e8dd-48b1-ad49-a554f465e777",
+        "line": 20,
+        "version": 1,
+        "index": 647
+      },
+      {
+        "id": "1e6d2e4f-2f4d-45ee-afa9-22c683294bbd",
+        "line": 20,
+        "version": 1,
+        "index": 647
+      }
+    ],
+    "functions/logs/guildBan.js": [
+      {
+        "id": "31b49902-8e83-4e8e-ad49-4c1f132d920d",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "bbbe7083-30e4-480a-b1b6-2403b2b466a3",
+        "line": 14,
+        "version": 1,
+        "index": 291
+      }
+    ],
+    "functions/logs/guildDelete.js": [
+      {
+        "id": "289bd129-2a66-496f-bc1a-be58e1256bfe",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "functions/logs/hjdfsaghj.js": [
+      {
+        "id": "552c5d9e-1d96-4ee9-b08b-9a209187dbd9",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "functions/main/client.js": [
+      {
+        "id": "5b3f27eb-7b6d-4fb0-9cd5-00ab40b4c81a",
+        "line": 5,
+        "version": 7,
+        "index": 32
+      }
+    ],
+    "functions/main/const.js": [
+      {
+        "id": "b0839b3d-4cef-4fd7-9ba6-d5e899e74dd5",
+        "line": 4,
+        "version": 1,
+        "index": 63
+      }
+    ],
+    "functions/main/over.js": [
+      {
+        "id": "0561a203-b3ad-459e-81da-9475e7beafb7",
+        "line": 5,
+        "version": 1,
+        "index": 32
+      },
+      {
+        "id": "c34530f4-f205-4821-822b-60150a14026d",
+        "line": 6,
+        "version": 1,
+        "index": 65
+      },
+      {
+        "id": "59a93cb3-bda3-40b2-abf5-72a2bb0af4f8",
+        "line": 8,
+        "version": 1,
+        "index": 138
+      }
+    ],
+    "functions/main/server.js": [
+      {
+        "id": "1ae65484-9430-480b-85cb-44bcbd22bf14",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "functions/music/commands/play.js": [
+      {
+        "id": "9d6d6f4c-9bcf-468c-b2ab-544e83a59b57",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "functions/music/commands/stop.js": [
+      {
+        "id": "06df1697-6cdf-4814-ba37-283956c298d8",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ],
+    "functions/music/handler.js": [
+      {
+        "id": "dd71c9a2-5b8a-4aab-94f7-a541e12dae85",
+        "line": 7,
+        "version": 160,
+        "index": 155
+      },
+      {
+        "id": "b2216ac4-14f4-4278-9bb5-725a5604c3d0",
+        "line": 32,
+        "version": 160,
+        "index": 870
+      }
+    ],
+    "handlers/command.js": [
+      {
+        "id": "e1355ee6-a738-4d45-b3e7-67e24afdd31e",
+        "line": 1,
+        "version": 26,
+        "index": 0
+      }
+    ],
+    "keep_alive.js": [
+      {
+        "id": "fbd18f5e-e7c6-430a-b843-17b284984f2a",
+        "line": 1,
+        "version": 27,
+        "index": 0
+      }
+    ],
+    "logger.js": [
+      {
+        "id": "09260ffb-25f5-468b-9614-a282443cc3d9",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      },
+      {
+        "id": "d763acb6-a8f5-4061-9a8c-d8753fc69051",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      },
+      {
+        "id": "b6deb701-82b8-4439-8fad-fddaa0023a9d",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ],
+    "logs/channelDeleted.js": [
+      {
+        "id": "6377a4c6-feac-421d-82af-ff7ed5702fec",
+        "line": 1,
+        "version": 335,
+        "index": 0
+      }
+    ]
+  }
+}
