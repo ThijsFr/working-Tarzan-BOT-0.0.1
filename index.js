@@ -14,7 +14,7 @@ const welcome = require('./welcome')
 
 
 
-
+const TOKEN = 'OTQ1NzEyODU1NDQzOTg0NDM0.YhUJuw.qZk2SV7qh0uNBpJU1dxASObKli0';
 const prefix = ('t.', 'T.')
 
 const client = new Client({
